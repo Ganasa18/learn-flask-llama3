@@ -1,0 +1,13 @@
+langchain
+flask
+langchain-text-splitters
+fastembed
+pdfplumber
+python-dotenv
+tiktoken
+faiss-cpu
+chromadb
+sentence-transformers
+psycopg2
+protobuf
+langchain_experimental
